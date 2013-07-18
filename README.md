@@ -7,7 +7,7 @@ A JavaScript and jQuery plugin to humanize ISO dates.
 
 ### Converting an ISO date string
 ```javascript
-prettyDate("2013-03-31T01:23:31Z");'
+prettyDate("2013-03-31T01:23:31Z");
 ```
 
 ### Converting the text of elements with jQuery
