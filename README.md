@@ -19,6 +19,6 @@ $(".date").prettyDate();
 ## Meta
 
 Original script by the mighty [John Resig](https://github.com/jeresig).
-Modified by [Alfred Xing](https://github.com/alfredxing).
+Modified by [Wylst](https://github.com/wylst).
 
 Licensed under the MIT and GPL licenses.
